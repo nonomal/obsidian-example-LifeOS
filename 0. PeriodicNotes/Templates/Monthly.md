@@ -6,15 +6,15 @@
 
 ## Priority First Dimension
 %%A list of projects experienced during this month, extracted from this month's diary, with automatic statistics on the percentage of time spent on projects%%
-```PeriodicPARA
+```LifeOS
 ProjectListByTime
 ```
 
 ## Role Dimension
 ### Employee
 %% As an employee, how do you disassemble this month's tasks for this quarter's goals? %%
-<%* let current = PeriodicPARA.Date.parse(app.workspace.getActiveFile().path); if (current.month%2 === 0) { -%>
-- [ ] Fill in bimonthly #work/trivia 📅 <% PeriodicPARA.Date.lastDay(current).month %>
+<%* let current = LifeOS.Date.parse(app.workspace.getActiveFile().path); if (current.month%2 === 0) { -%>
+- [ ] Fill in bimonthly #work/trivia 📅 <% LifeOS.Date.lastDay(current).month %>
 <%* } -%>
 - OKR
 ### Husband
@@ -29,12 +29,12 @@ ProjectListByTime
 # Review
 ## Collected this month
 %%List of tasks collected this month from this month's diary%%
-```PeriodicPARA
+```LifeOS
 TaskRecordListByTime
 ```
 
 ## Completed this month
 %%List of tasks completed this month, extracted from all notes%%
-```PeriodicPARA
+```LifeOS
 TaskDoneListByTime
 ```

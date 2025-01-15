@@ -1,6 +1,6 @@
 ## Project List
 %%A snapshot of the project today%%
-<% PeriodicPARA.Project.snapshot() %>
+<% LifeOS.Project.snapshot() %>
 
 ## Daily Record
 %%Your Record%%
@@ -22,12 +22,12 @@
 
 ## Energy allocation
 %%Today's project list, according to the time consumed, automatic statistics project time consumed percentage%%
-```PeriodicPARA
+```LifeOS
 ProjectListByTime
 ```
 
 ## Completed today
 %%List of tasks completed today, extracted from all notes%%
-```PeriodicPARA
+```LifeOS
 TaskDoneListByTime
 ```

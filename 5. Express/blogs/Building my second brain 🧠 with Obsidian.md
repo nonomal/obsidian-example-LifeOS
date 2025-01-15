@@ -1,8 +1,8 @@
 ---
-title: 'Building my second brain 🧠 with Obsidian'
+title: Building my second brain 🧠 with Obsidian
 toc: true
 date: 2023-07-08 09:38:13
-categories: 第二大脑
+categories: PKM
 tags:
   - LifeOS
   - PKM
@@ -12,11 +12,9 @@ tags:
   - Time-Management
 ---
 
-# Building my second brain 🧠 with Obsidian
-
 This article will take [Obsidian](https://obsidian.md/) as an example to share my practice of using Obsidian to build a second brain!
 
-For more information, please refer to the official website [LifeOS](https://obsidian-life-os.netlify.app)!
+For more information, please refer to the official website [LifeOS](https://lifeos.vip)!
 
 ## Preface
 
@@ -208,7 +206,7 @@ I consider there to be three types of task reminders:
 Within each periodic note, the same feature modules use the same statement, such as "tasks collected this period," all inserted through the following query statement. The "this period" variable is provided by the current file name, which makes it very convenient to refactor all periodic files en masse, needing only to perform a batch replacement:
 
 ````markdown
-```PeriodicPARA
+```LifeOS
     TaskRecordListByTime
 ```
 ````
