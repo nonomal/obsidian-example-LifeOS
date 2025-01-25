@@ -4,15 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e1dcbd9476b552e3",
+        "id": "33a6ffc28c30bd4d",
         "type": "tabs",
         "children": [
           {
-            "id": "0ae97260506f4037",
+            "id": "dc4b2b485ebe6689",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "HOME.canvas",
+                "viewState": {
+                  "x": -180,
+                  "y": 130,
+                  "zoom": -0.18539821385424635
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "HOME"
             }
           }
         ]
@@ -27,14 +36,16 @@
       {
         "id": "b454898db4c8f945",
         "type": "tabs",
-        "dimension": 36.69790915645277,
+        "dimension": 42.58001939864209,
         "children": [
           {
-            "id": "9110575c83bff6ab",
+            "id": "84f717612dca405e",
             "type": "leaf",
             "state": {
               "type": "periodic-para",
-              "state": {}
+              "state": {},
+              "icon": "zap",
+              "title": "LifeOS"
             }
           }
         ]
@@ -42,7 +53,7 @@
       {
         "id": "84e30e37024d9f2a",
         "type": "tabs",
-        "dimension": 63.30209084354722,
+        "dimension": 57.41998060135791,
         "children": [
           {
             "id": "318abbbcd7749f6f",
@@ -51,7 +62,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -66,7 +79,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -77,7 +92,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -85,14 +102,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 377.50312423706055
+    "width": 315.5
   },
   "right": {
     "id": "e909704c2c67d329",
@@ -108,9 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. PeriodicNotes/Templates/Quarterly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Quarterly 的出链列表"
             }
           },
           {
@@ -118,7 +140,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. PeriodicNotes/Templates/Quarterly.md"
+              },
+              "icon": "lucide-list",
+              "title": "Quarterly 的大纲"
             }
           },
           {
@@ -127,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. PeriodicNotes/Templates/Quarterly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +161,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Quarterly 的反向链接列表"
             }
           },
           {
@@ -146,7 +175,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ]
@@ -158,58 +189,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
       "templater-obsidian:Templater": false,
-      "periodic-para:Periodic PARA": false
+      "periodic-para:LifeOS 创建": false
     }
   },
-  "active": "0ae97260506f4037",
+  "active": "dc4b2b485ebe6689",
   "lastOpenFiles": [
-    "0. PeriodicNotes/Templates/Quarterly.md",
-    "1. Projects/personal-brand-wot-sharing-meeting/wot-sharing-meeting.README.md",
-    "0. PeriodicNotes/2023/Weekly/2023-W23.md",
-    "TASK.md",
-    "0. PeriodicNotes/2023/Quarterly/2023-Q2.md",
-    "HOME.canvas",
-    "0. PeriodicNotes/2024/2024.md",
-    "0. PeriodicNotes/2024/Quarterly/2024-Q1.md",
-    "0. PeriodicNotes/2024/Monthly/2024-02.md",
-    "0. PeriodicNotes/2024/Quarterly",
-    "0. PeriodicNotes/2024/Weekly/2024-W07.md",
-    "0. PeriodicNotes/2024/Monthly",
-    "0. PeriodicNotes/2024/Daily/02/2024-02-16.md",
-    "0. PeriodicNotes/2024/Weekly",
-    "0. PeriodicNotes/2024/Daily/02",
-    "0. PeriodicNotes/2024/Daily",
-    "0. PeriodicNotes/2024",
     "5. Express/blogs/Building my second brain 🧠 with Obsidian.md",
-    "5. Express/blogs",
-    "4. Archives/parenting-take-a-name/program/package.json",
-    "4. Archives/parenting-take-a-name/program/nameCandidateList.md",
-    "4. Archives/parenting-take-a-name/program/index.js",
-    "4. Archives/parenting-take-a-name/program/README.md",
-    "4. Archives/parenting-take-a-name/take-a-name.README.md",
-    "4. Archives/parenting-take-a-name/program",
-    "4. Archives/parenting-take-a-name/candidate word.md",
-    "4. Archives/parenting-take-a-name/candidate list.md",
-    "3. Resources/photography/photography.README.md",
-    "3. Resources/knowledge-management/knowledge-management.README.md",
-    "2. Areas/personal-brand/personal-brand.README.md",
-    "2. Areas/parenting/parenting.README.md",
-    "2. Areas/parental-relationship/parental-relationship.README.md",
-    "2. Areas/marriage-relationship/marriage-relationship.README.md",
-    "1. Projects/personal-brand-wot-sharing-meeting/speech rehearsal/Verbatim manuscript.md",
+    "-1. Capture/Predicting The Future.md",
+    "-1. Capture/Advice for ambitious 19 year olds.md",
+    "0. PeriodicNotes/Templates/Daily.md",
+    "0. PeriodicNotes/Templates/Quarterly.md",
+    "0. PeriodicNotes/Templates/Monthly.md",
+    "README.md",
+    "0. PeriodicNotes/2023/Daily/06/2023-06-01.md",
+    "HOME.canvas",
+    "2. Areas/work/work.README.md",
+    "0. PeriodicNotes/2024/Daily/04/2024-04-28.md",
+    "0. PeriodicNotes/2024/Daily/04/2024-04-04.md",
+    "0. PeriodicNotes/2024/Daily/04",
+    "0. PeriodicNotes/2023/Weekly/2023-W23.md",
+    "1. Projects/parenting-first-birthday-banquet/first-birthday-banquet.README.md",
+    "0. PeriodicNotes/2024/Daily/03/2024-03-30.md",
+    "0. PeriodicNotes/2024/Weekly/2024-W13.md",
+    "0. PeriodicNotes/2024/Daily/03",
+    "0. PeriodicNotes/2024/Daily",
+    "-1. Capture/README.md",
+    "0. PeriodicNotes/2024/Weekly",
+    "0. PeriodicNotes/2024",
+    "5. Express/README.md",
+    "-1. Capture/Quality software deserves your hard‑earned cash.md",
+    "1. Projects/README.md",
+    "4. Archives/README.md",
+    "3. Resources/README.md",
+    "2. Areas/README.md",
+    "1. Projects/personal-brand-wot-sharing-meeting/wot-sharing-meeting.README.md",
     "1. Projects/personal-brand-wot-sharing-meeting/speech rehearsal/Tips for Public Speaking.md",
-    "1. Projects/personal-brand-wot-sharing-meeting/speech rehearsal/Rehearsal Tips.md",
+    "1. Projects/personal-brand-wot-sharing-meeting/speech rehearsal/Verbatim manuscript.md",
     "1. Projects/personal-brand-wot-sharing-meeting/speech rehearsal/Existing problems.md",
-    "1. Projects/personal-brand-wot-sharing-meeting/architecture diagram/Polyrepo.svg",
     "1. Projects/personal-brand-wot-sharing-meeting/architecture diagram/Monorepo.svg",
+    "1. Projects/personal-brand-wot-sharing-meeting/Front-end Engineering Practice of ByteDance.pdf",
+    "0. PeriodicNotes/2024/Quarterly",
+    "0. PeriodicNotes/2024/Monthly",
+    "0. PeriodicNotes/2024/Daily/02",
+    "5. Express/blogs",
+    "1. Projects/personal-brand-wot-sharing-meeting/architecture diagram/Polyrepo.svg",
     "4. Archives/parenting-take-a-name/baby-name.png",
     "4. Archives/parenting-take-a-name/林奕如.png",
     "1. Projects/personal-brand-wot-sharing-meeting/Attachments/PPT 素材/warning.svg",

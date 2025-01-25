@@ -5,10 +5,10 @@ tags:
 - PARA/Express
 
 ---
-
+> [Express in the CODE model](https://lifeos.vip/guide/intro/second-brain.html#the-code-model)
 ## TASK
 
-```PeriodicPARA
+```LifeOS
 TaskListByTag
 ```
 
@@ -16,6 +16,6 @@ TaskListByTag
 
 ## Bullet
 
-```PeriodicPARA
+```LifeOS
 BulletListByTag
 ```
